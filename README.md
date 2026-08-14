@@ -7,7 +7,7 @@ I work with Java, Spring Boot, PostgreSQL, Kafka and REST API.
 
 ## Resume
 
-[View or download the resume in PDF](./Резюме_Донских.Д.Г..pdf)
+[View or download the resume in PDF](./Dmitry_Donskikh_Java_Backend_CV.pdf)
 
 ## Core skills
 
