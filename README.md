@@ -1,19 +1,19 @@
 # Dmitry Donskikh — Java Backend Developer
 
-Junior Java Backend Developer with commercial experience at T-Bank.
+Java Backend Developer with commercial experience at T-Bank.
 
-Graduate of BMSTU and Yandex Backend Development School.  
+BMSTU master's student, graduate of Yandex Backend Development School.  
 I work with Java, Spring Boot, PostgreSQL, Kafka and REST API.
 
 ## Resume
 
-[View or download the resume in PDF](./Dmitry_Donskikh_Java_Backend_CV.pdf)
+[View or download the resume in PDF](./Donskikh_Java_Developer.pdf)
 
 ## Core skills
 
 - Java, Kotlin
 - Spring Boot, Spring Web, Spring Data JPA, Spring Security
-- PostgreSQL, Hibernate, SQL
+- PostgreSQL, Hibernate, Flyway, SQL
 - Kafka, REST API
 - Docker, Docker Compose
 - JUnit, Mockito
@@ -34,4 +34,3 @@ project moderation, donations, comments, analytics and administrative tools.
 - Email: [dimadonskikhwork@gmail.com](mailto:dimadonskikhwork@gmail.com)
 - Telegram: [@byJlkaCnoBuDJLoM](https://t.me/byJlkaCnoBuDJLoM)
 - GitHub: [6yJlka](https://github.com/6yJlka)
-
